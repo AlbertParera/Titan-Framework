@@ -1,0 +1,178 @@
+# Copyright (C) 2016 Titan Framework
+# This file is distributed under the same license as the Titan Framework package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Titan Framework\n"
+"Report-Msgid-Bugs-To: http://titanframework.net\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2018-06-29 08:52+0200\n"
+"Last-Translator: Albert Parera\n"
+"Language-Team: Gambit Technologies Inc <info@gambit.ph>\n"
+"Language: ca\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.0.8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: lib/class-admin-page.php:119
+msgid ""
+"<em>Options Page Created with <a href='http://titanframework.net?"
+"utm_source=admin&utm_medium=admin footer'>Titan Framework</a></em>"
+msgstr ""
+"<em>Pàgina d'opcions creada amb <a href='http://titanframework.net?"
+"utm_source=admin&utm_medium=admin footer'>Titan Framework</a></em>"
+
+#: lib/class-admin-page.php:365
+msgid "Settings saved."
+msgstr "S'ha desat la configuració."
+
+#: lib/class-admin-page.php:367
+msgid "Settings reset to default."
+msgstr "Restaura els valors per defecte."
+
+#: lib/class-customizer.php:33, lib/class-meta-box.php:37
+msgid "More Options"
+msgstr "Més opcions"
+
+#: lib/class-option-ajax-button.php:30, lib/class-option-ajax-button.php:33
+msgid "Security check failed, please refresh the page and try again."
+msgstr ""
+"La comprovació de seguretat ha fallat. Actualitzeu la pàgina i torneu-ho a "
+"provar."
+
+#: lib/class-option-ajax-button.php:87
+msgid "Something went wrong"
+msgstr "Alguna cosa ha anat malament"
+
+#: lib/class-option-ajax-button.php:95
+msgid "Click me"
+msgstr "Feu-me clic"
+
+#: lib/class-option-ajax-button.php:100
+msgid "Please wait..."
+msgstr "Espera..."
+
+#: lib/class-option-edd-license.php:134
+msgid "Your license is valid and active."
+msgstr "La vostra llicència és vàlida i està activada."
+
+#: lib/class-option-edd-license.php:138
+msgid "Your license is invalid."
+msgstr "La vostra llicència no és vàlida."
+
+#: lib/class-option-edd-license.php:152
+msgid "Activate"
+msgstr "Activa"
+
+#: lib/class-option-edd-license.php:153
+msgid ""
+"Your license is valid but inactive. Click the button above to activate it."
+msgstr ""
+"La vostra llicència és vàlida però inactiva. Feu clic al botó de dalt per "
+"activar-la."
+
+#: lib/class-option-edd-license.php:158
+msgid ""
+"The remote server did not return a valid response. You can retry by hitting "
+"the &laquo;Save&raquo; button again."
+msgstr ""
+"El servidor remot no ha retornat una resposta vàlida. Podeu tornar-ho a "
+"intentar prement el botó «Desa» una altra vegada."
+
+#: lib/class-option-edd-license.php:163
+msgid "Entering your license key is mandatory to get the product updates."
+msgstr ""
+"Cal que entreu la vostra clau de llicència per a obtenir actualitacions de "
+"l'extensió."
+
+#: lib/class-option-enable.php:62, lib/class-option-enable.php:141
+msgid "Enabled"
+msgstr "Activades"
+
+#: lib/class-option-enable.php:65, lib/class-option-enable.php:144
+msgid "Disabled"
+msgstr "Desactivats"
+
+#: lib/class-option-file.php:211
+msgid "Select File"
+msgstr "Selecciona el fitxer"
+
+#: lib/class-option-file.php:213
+msgid "Use file"
+msgstr "Usar el fitxer"
+
+#: lib/class-option-gallery.php:143, lib/class-option-upload.php:271
+msgid "Select Image"
+msgstr "Selecciona una imatge"
+
+#: lib/class-option-gallery.php:146, lib/class-option-upload.php:274
+msgid "Use image"
+msgstr "Utilitza la imatge"
+
+#: lib/class-option-multicheck-pages.php:28,
+#: lib/class-option-multicheck-pages.php:49,
+#: lib/class-option-multicheck-posts.php:35,
+#: lib/class-option-multicheck-posts.php:61,
+#: lib/class-option-select-pages.php:34, lib/class-option-select-posts.php:42
+msgid "Untitled %s"
+msgstr "Sense títol %s"
+
+#: lib/class-option-save.php:21
+msgid "Save Changes"
+msgstr "Desa els canvis"
+
+#: lib/class-option-save.php:24
+msgid "Reset to Defaults"
+msgstr "Restaurar a valors per defecte"
+
+#: lib/class-option-save.php:27
+msgid "Are you sure you want to reset ALL options to their default values?"
+msgstr ""
+"Segur que voleu restaurar TOTES les opcions als seus valors per defecte?"
+
+#: lib/class-option-select-categories.php:35,
+#: lib/class-option-select-pages.php:27,
+#: lib/class-option-select-post-types.php:27,
+#: lib/class-option-select-posts.php:36
+msgid "Select"
+msgstr "Selecciona"
+
+#: lib/class-option.php:119
+msgid "Option type or extended class %s does not exist."
+msgstr "El tipus d'opció o la classe ampliada %s no existeix."
+
+#: lib/class-titan-framework.php:190
+msgid ""
+"All option IDs per namespace must be unique. The id %s has been used "
+"multiple times."
+msgstr ""
+"Totes les ID d'opcions per espai de noms han de ser úniques. L'id %s s'ha "
+"usat diverses vegades."
+
+#: lib/class-titan-framework.php:445
+msgid "%s needs a %s parameter."
+msgstr "%s necessita un paràmetre %s."
+
+#: lib/class-titan-framework.php:455
+msgid "Container of type %s, does not exist."
+msgstr "El contenidor del tipus %s no existeix."
+
+#: titan-framework.php:188
+msgid "Documentation"
+msgstr "Documentació"
+
+#: titan-framework.php:192
+msgid "GitHub Repo"
+msgstr "Repositori de GitHub"
+
+#: titan-framework.php:196
+msgid "Issue Tracker"
+msgstr "Seguiment d'incidències"
